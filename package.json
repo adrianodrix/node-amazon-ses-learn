@@ -1,0 +1,14 @@
+{
+  "name": "ses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adriano Santos <adrianodrix@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.559.0",
+    "aws-ses-mail": "^2.1.1",
+    "dotenv": "^8.2.0",
+    "mailcomposer": "^4.0.2",
+    "node-ses": "^2.2.1"
+  }
+}
